@@ -15,4 +15,4 @@ Click [here](https://www.jneurosci.org/content/44/9/e1252232024) to read a recen
 
 Yizhou Lyu*, Zishan Su*, Dawn Neumann, Kimberly L. Meidenbauer, Yuan Chang Leong (in press). Hostile attribution bias shapes neural synchrony in the left ventromedial prefrontal cortex during ambiguous social narratives. Journal of Neuroscience.
 
-Click [here](https://louisalyutravel.wordpress.com/2024/03/07/places-ive-been/) to where I have been.
+Click [here](https://louisalyutravel.wordpress.com/2024/03/07/places-ive-been/) to see where I have been (or if you want some travel recommendations).
