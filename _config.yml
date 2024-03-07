@@ -199,16 +199,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: False
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: False
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: False
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: False
+    output: false
     permalink: /:collection/:path/
 
 
